@@ -569,6 +569,23 @@ input[type=checkbox]{
 
 *:focus{outline:none;}
 
+.form-messages{
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.success{
+    background-color: rgba(43, 216, 95, 0.9);
+}
+
+.error{
+    background-color: rgba(230, 56, 56, 0.9);
+}
+
 /* ----------------------------------------------- */
 /* FOOTER */
 /* ----------------------------------------------- */
